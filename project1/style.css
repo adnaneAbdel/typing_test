@@ -1,0 +1,113 @@
+
+
+.alldiv{
+  position: relative;
+  top: 10vh;
+}
+
+.alert{
+  position: relative;
+    top: -245px;
+}
+.alertfromJs{
+  position: relative;
+  top: 0;
+}
+label{
+  font-size: x-large;
+  font-weight: bold;
+  color: gray;
+  font-family: inherit;
+}
+
+
+.hereplaceOtherwolds div{
+  margin: 5px;
+    border: 2px solid 6161fd;
+    padding: 5px;
+    border-radius: 5px;
+    background: #5252c5;
+    color: white;
+    font-size: 17px;
+}
+
+.textOption{
+  margin: 4px 0;
+  color: #808080bd;
+}
+
+.hereShowTheword{
+  text-align: center;
+  margin: 12px 0;
+  padding: 23px;
+  
+  background-color: #ccc;
+  /* border: 2px solid white; */
+  border-radius: 5px;
+
+}
+.hereShowTheword div{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+#inputBtn{
+  margin: 10px 0;
+  height: 55px;
+  background: #6161fd;
+  color: white;
+  font-size: 20px;
+  outline: none;
+  padding: -1px 0;
+  font-weight: bold;
+
+
+}
+#inputText{
+  outline: none;
+  
+  padding: 28px;
+  border: 1px solid rgb(38, 38, 223);
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: bolder;
+  caret-color: #4848e5;
+  
+}
+.hereplaceOtherwolds{
+  padding: 30px;
+  background: #ccc;
+  margin: 10px 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 5px;
+
+}
+
+span{
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: bold;
+
+
+}
+.score{
+  position: relative;
+  float: right;
+}
+
+.spanforminute, .spanforScore , .spanforallword{
+
+  font-size: 20px;
+  font-weight: bold;
+  color: darkcyan;  
+}
+.bad {
+  font-size: 20px ;
+  color: red;
+  font-weight: bold;
+}
+
